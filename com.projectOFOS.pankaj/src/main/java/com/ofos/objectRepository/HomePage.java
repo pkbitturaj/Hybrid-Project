@@ -45,12 +45,7 @@ public class HomePage {
 	private WebElement selectRestHighlands;
 	@FindBy(xpath="//a[text()='Logout']")
 	private WebElement logouLink;
-	//home page is complited
-
-	//local featurre
-
-	//home page is complited and certified
-	//hello
+	
 	
 	
 	
