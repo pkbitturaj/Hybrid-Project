@@ -46,6 +46,7 @@ public class HomePage {
 	@FindBy(xpath="//a[text()='Logout']")
 	private WebElement logouLink;
 	//home page is complited
+	//home page is complited and certified
 	
 	
 	
